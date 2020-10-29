@@ -36,6 +36,12 @@ namespace Komo_Cafe.repo
         {
             return _menu;
         }
+
+        public bool DeleteExistingItem(KMenu existingItem)
+        {
+            bool deleteResult = _menu.Remove(existingItem);
+            return deleteResult;
+        }
     }
 
 }

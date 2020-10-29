@@ -114,11 +114,9 @@ namespace Komo_Cafe_Console
                         continueToRun = false;
                         break;
                     default:
-                        //Invalid selection
                         Console.WriteLine("Invalid input.");
                         Console.ReadKey();
                         break;
-                        // return is a way of getting out of a method entirely with void
                 }
                 Console.WriteLine("Press any key to return to the menu...");
                 Console.ReadKey();
@@ -172,6 +170,25 @@ namespace Komo_Cafe_Console
 
             _menuRepo.AddMenu(newMenuItem);
 
+        }
+
+        private void DeleteExistingItem()
+        {
+            ShowFullMenu();
+            Console.WriteLine("Enter the menu item you would like to delete.");
+            string menuItemToDelete = Console.ReadLine();
+
+            KMenu contentToDelete = _menuRepo.ShowFullMenu(menuItemToDelete);
+            bool wasDeleted = _menuRepo.DeleteExistingItem(contentToDelete);
+
+            if (wasDeleted)
+            {
+                Console.WriteLine("This content was successfully deleted.");
+            }
+            else
+            {
+                Console.WriteLine("Content could not be deleted");
+            }
         }
 
 
