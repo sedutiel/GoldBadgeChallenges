@@ -108,7 +108,7 @@ namespace Komo_Cafe_Console
                         CreateNewMenuItem();
                         break;
                     case "3":
-                        //DeleteMenuItem();
+                        DeleteExistingItem();
                         break;
                     case "4":
                         continueToRun = false;
@@ -175,10 +175,10 @@ namespace Komo_Cafe_Console
         private void DeleteExistingItem()
         {
             ShowFullMenu();
-            Console.WriteLine("Enter the menu item you would like to delete.");
-            string menuItemToDelete = Console.ReadLine();
+            Console.WriteLine("Enter the letter of the menu item you would like to delete.");
+            string menuLetterToDelete = Console.ReadLine();
 
-            KMenu contentToDelete = _menuRepo.ShowFullMenu(menuItemToDelete);
+            KMenu contentToDelete = _menuRepo.GetMealByLetter(menuLetterToDelete);
             bool wasDeleted = _menuRepo.DeleteExistingItem(contentToDelete);
 
             if (wasDeleted)

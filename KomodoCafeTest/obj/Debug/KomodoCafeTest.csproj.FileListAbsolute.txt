@@ -1,14 +1,4 @@
-C:\Users\ICT\source\repos\GoldBadgeChallenges\KomodoCafeTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
-C:\Users\ICT\source\repos\GoldBadgeChallenges\KomodoCafeTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
-C:\Users\ICT\source\repos\GoldBadgeChallenges\KomodoCafeTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
-C:\Users\ICT\source\repos\GoldBadgeChallenges\KomodoCafeTest\bin\Debug\KomodoCafeTest.dll
-C:\Users\ICT\source\repos\GoldBadgeChallenges\KomodoCafeTest\bin\Debug\KomodoCafeTest.pdb
-C:\Users\ICT\source\repos\GoldBadgeChallenges\KomodoCafeTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
-C:\Users\ICT\source\repos\GoldBadgeChallenges\KomodoCafeTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
-C:\Users\ICT\source\repos\GoldBadgeChallenges\KomodoCafeTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
-C:\Users\ICT\source\repos\GoldBadgeChallenges\KomodoCafeTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
-C:\Users\ICT\source\repos\GoldBadgeChallenges\KomodoCafeTest\obj\Debug\KomodoCafeTest.csprojAssemblyReference.cache
 C:\Users\ICT\source\repos\GoldBadgeChallenges\KomodoCafeTest\obj\Debug\KomodoCafeTest.csproj.CoreCompileInputs.cache
-C:\Users\ICT\source\repos\GoldBadgeChallenges\KomodoCafeTest\obj\Debug\KomodoCafeTest.csproj.CopyComplete
-C:\Users\ICT\source\repos\GoldBadgeChallenges\KomodoCafeTest\obj\Debug\KomodoCafeTest.dll
-C:\Users\ICT\source\repos\GoldBadgeChallenges\KomodoCafeTest\obj\Debug\KomodoCafeTest.pdb
+C:\Users\ICT\source\repos\GoldBadgeChallenges\KomodoCafeTest\obj\Debug\KomodoCafeTest.csprojAssemblyReference.cache
+C:\Users\ICT\Desktop\ElevenFiftyProjects\Gold Badge\GoldBadgeChallenges\GoldBadgeChallenges\KomodoCafeTest\obj\Debug\KomodoCafeTest.csprojAssemblyReference.cache
+C:\Users\ICT\Desktop\ElevenFiftyProjects\Gold Badge\GoldBadgeChallenges\GoldBadgeChallenges\KomodoCafeTest\obj\Debug\KomodoCafeTest.csproj.CoreCompileInputs.cache

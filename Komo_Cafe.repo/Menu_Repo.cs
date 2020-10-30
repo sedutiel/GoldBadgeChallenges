@@ -23,11 +23,6 @@ namespace Komo_Cafe.repo
             bool wasAdded = (_menu.Count > startingCount) ? true : false;
             return wasAdded;
         }
-        //READ ALL
-        public List<KMenu> GetMenuSelection()
-        {
-            return _menu;
-        }
 
 
         //A method for printing entire menu
@@ -37,10 +32,24 @@ namespace Komo_Cafe.repo
             return _menu;
         }
 
+        //a method to delete items from the menu by letter
         public bool DeleteExistingItem(KMenu existingItem)
         {
             bool deleteResult = _menu.Remove(existingItem);
             return deleteResult;
+        }
+
+        //a method to get the meal by letter so I can call this method in my delete method
+        public KMenu GetMealByLetter(string mealLetter)
+        {
+            foreach (KMenu content in _menu)
+            {
+                if (content.MealLetter.ToLower() == mealLetter.ToLower())
+                {
+                    return content;
+                }
+            }
+            return null;
         }
     }
 

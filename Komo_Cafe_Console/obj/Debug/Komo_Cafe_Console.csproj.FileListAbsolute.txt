@@ -1,6 +1,2 @@
-C:\Users\ICT\source\repos\GoldBadgeChallenges\Komo_Cafe_Console\bin\Debug\Komo_Cafe_Console.dll
-C:\Users\ICT\source\repos\GoldBadgeChallenges\Komo_Cafe_Console\bin\Debug\Komo_Cafe_Console.pdb
-C:\Users\ICT\source\repos\GoldBadgeChallenges\Komo_Cafe_Console\obj\Debug\Komo_Cafe_Console.csprojAssemblyReference.cache
 C:\Users\ICT\source\repos\GoldBadgeChallenges\Komo_Cafe_Console\obj\Debug\Komo_Cafe_Console.csproj.CoreCompileInputs.cache
-C:\Users\ICT\source\repos\GoldBadgeChallenges\Komo_Cafe_Console\obj\Debug\Komo_Cafe_Console.dll
-C:\Users\ICT\source\repos\GoldBadgeChallenges\Komo_Cafe_Console\obj\Debug\Komo_Cafe_Console.pdb
+C:\Users\ICT\source\repos\GoldBadgeChallenges\Komo_Cafe_Console\obj\Debug\Komo_Cafe_Console.csprojAssemblyReference.cache
