@@ -5,11 +5,11 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ProjectGuid>{7690B467-4802-4A88-83B7-393DA8081521}</ProjectGuid>
+    <ProjectGuid>{A0A0BF59-B171-4FBA-B316-EC7B81F00114}</ProjectGuid>
     <OutputType>Library</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
-    <RootNamespace>KomodoCafeTest</RootNamespace>
-    <AssemblyName>KomodoCafeTest</AssemblyName>
+    <RootNamespace>Green_Tests</RootNamespace>
+    <AssemblyName>Green_Tests</AssemblyName>
     <TargetFrameworkVersion>v4.7.2</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <ProjectTypeGuids>{3AC096D0-A1C2-E12C-1390-A8335801FDAB};{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}</ProjectTypeGuids>
@@ -56,9 +56,9 @@
     <None Include="packages.config" />
   </ItemGroup>
   <ItemGroup>
-    <ProjectReference Include="..\ClassLibrary1\KomodoMenu.csproj">
-      <Project>{56DFA77F-E767-4E0C-847E-964BB90F0EC1}</Project>
-      <Name>KomodoMenu</Name>
+    <ProjectReference Include="..\KomodoGreen\KomodoGreen.csproj">
+      <Project>{1E50AE54-6B42-4D39-89BE-284DE58149C0}</Project>
+      <Name>KomodoGreen</Name>
     </ProjectReference>
   </ItemGroup>
   <Import Project="$(VSToolsPath)\TeamTest\Microsoft.TestTools.targets" Condition="Exists('$(VSToolsPath)\TeamTest\Microsoft.TestTools.targets')" />
