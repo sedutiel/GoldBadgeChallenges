@@ -30,7 +30,7 @@ namespace Green_Tests
         {
             //Arrange
 
-            _vehiclerepo.AddVehicleToList(_vehicles);
+            _vehiclerepo.AddVehicleToList(_vehicle);
             string type = "A";
 
             //Act
@@ -57,7 +57,7 @@ namespace Green_Tests
         {
 
             //Act
-            bool addResult = _vehiclerepo.AddVehicleToList(_content);
+            bool addResult = _vehiclerepo.AddVehicleToList(_vehicle);
 
             //Assert
             Assert.IsTrue(addResult);
