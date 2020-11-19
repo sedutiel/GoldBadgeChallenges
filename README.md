@@ -10,3 +10,8 @@ My basic approach was outlining the objectives of each challenge and creating th
 
 The Menu challenge runs via the console. However, I was unable to get my other two challenges to run properly. 
 
+# Table of Contents
+
+..* General Info
+..* Screenshots
+
