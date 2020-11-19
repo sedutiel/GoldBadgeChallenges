@@ -12,6 +12,6 @@ The Menu challenge runs via the console. However, I was unable to get my other t
 
 # Table of Contents
 
-..* General Info
+.. General Info
 ..* Screenshots
 
