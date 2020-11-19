@@ -10,18 +10,18 @@ My basic approach was outlining the objectives of each challenge and creating th
 
 The Menu challenge runs via the console. However, I was unable to get my other two challenges to run properly. 
 
-Alt-H1 Completely Booked
+# H1 Completely Booked
 
-Alt-H2 General Info
+# H2 General Info
 
 For the Blue Badge Group API Project, the goal was to build a .NET Framework API Web Application using n-tier architecture. Our group created ‘Completely Booked’ which is a book publishing web application. The basic function of our application is to search a database of books, authors and publishers. Our data tables include Author, Book, Review and Publisher. We also used Trello to collaborate on tickets and LucidChart to collaborate on our ERD. 
 
-Alt-H2 Table of Contents
+# H2 Table of Contents
 
-Alt-H2 Technologies 
+# H2 Technologies 
 
-Alt-H2 Setup
+# H2 Setup
 
-Alt-H2 Status 
+# H2 Status 
 
-Alt-H2 Contact 
+# H2 Contact 
